@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🍁 Stereotypical Canadian
+- 🌱 I’m currently learning Javascript
+- 📫 How to reach me: Discord: drdrewnatic#2372
+
+
 <!--
 **drdrewnatic/drdrewnatic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
